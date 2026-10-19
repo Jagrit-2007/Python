@@ -1,0 +1,11 @@
+"math" for math utilities
+"re" for regular expressions
+"json" to work with json
+"datetime" to work with dates and time
+"sqlite3" to work with SQLite
+"os" for operating system utilities
+"random" for random number generator
+"statistics" for statistics utilities
+"requests" to perform HTTP netwrork requests
+"urllib" to manage URLs
+"argparse" for accepting through cli

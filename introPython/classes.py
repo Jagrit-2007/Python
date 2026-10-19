@@ -18,3 +18,19 @@ dog = Pet(name="buddy", species="Dog")
 print(dog.name)
 
 dog.statments()
+
+
+class Car:
+
+    def __init__(self, name, model):
+        self.name = name
+        self.model = model
+
+    def finalStatement(self):
+        print(f"Car : {self.name} , Model : {self.model}")
+
+# creating a object
+car1 = Car("BMW", "M5")
+
+print(car1.model)
+car1.finalStatement()            
